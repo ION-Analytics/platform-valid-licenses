@@ -1,0 +1,21 @@
+GNU General Public License Version 2
+GNU General Public License, version 2
+The GNU General Public License, Version 2
+GNU General Public License v2+
+GNU General Public License, version 3
+GNU General Public License Version 3
+The GNU General Public License, Version 3
+GNU Affero General Public License version 3
+GNU Affero General Public License Version 3
+GPL version 2
+GPL version 3
+GPLv2
+GPLv3
+AGPL-3.0
+gpl-2.0
+gpl-3.0
+agpl-3.0
+CPL-1.0
+CPL-1.1
+Sleepycat License
+The GNU General Public License, v2 with FOSS exception

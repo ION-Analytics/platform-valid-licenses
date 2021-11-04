@@ -1,0 +1,19 @@
+The Apache Software License, Version 2.0|Apache 2.0|Apache License 2|Apache v2|Apache 2|Apache License, Version 2.0|Apache Software License - Version 2.0|Apache License|Apache License 2.0|Similar to Apache License but with the acknowledgment clause removed|The Apache License, Version 2.0|ASL, version 2|Apache License, version 2.0|Apache Software License, version 2.0|Apache License Version 2.0|Apache-2.0|Apache License, 2.0|Apache v2.0|ASL 2.0|Apache License v2|Apache License v2.0
+BSD License|BSD|The BSD License|The BSD License (BSD)|BSD License (BSD)|The BSD 2-Clause License|BSD licence|BSD 2-Clause
+BSD 3-Clause License|BSD 3-Clause|BSD 3-clause|3-Clause BSD License|BSD 3 Clause|BSD-3-Clause|BSD 3-clause License w/nuclear disclaimer
+MIT License|MIT|The MIT License|The MIT License (MIT)|MIT License (MIT)|(MIT-style) netCDF C library license
+Eclipse Distribution License (New BSD License)|New BSD License|New BSD license|Eclipse Distribution License (EDL), Version 1.0|Eclipse Distribution License v. 1.0|Eclipse Distribution License - v 1.0|EDL 1.0
+CDDL 1.1|Dual license consisting of the CDDL v1.1 and GPL v2|CDDL+GPL License
+Eclipse Public License - Version 1.0|Eclipse Public License, Version 1.0|EPL 1.0|EPL-1.0|Eclipse Public License - v 1.0|Eclipse Public License v1.0|EPL|Eclipse Public License (EPL)
+Eclipse Public License - v 2.0|Eclipse Public License - Version 2.0|EPL 2.0|EPL-2.0|Eclipse Public License v2.0
+CDDL 1.0|CDDL, v1.0|Common Development and Distribution License (CDDLv1.0)|Common Development and Distribution License (CDDL v1.0)|CDDL-1.0
+Mozilla Public License 1.1|MPL 1.1|MPL-1.1|Mozilla Public License 1.1 (MPL 1.1)|Mozilla Public License, Version 1.1|Mozilla Public License version 1.1
+Mozilla Public License 2.0|MPL 2.0|MPL-2.2|Mozilla Public License 2.0 (MPL 2.0)|Mozilla Public License, Version 2.0|Mozilla Public License version 2.0|MPL
+CPL-1.0|Common Public License - v 1.0|Common Public License - v1.0|Common Public License 1.0|Common Public License Version 1.0
+CDDL + GPLv2 with classpath exception|CDDL/GPLv2+CE|CDDL 1.1 or GPL2 w/ CPE|CDDL or GPLv2+CE
+Bouncy Castle Licence|Bouncy Castle License
+ISC License|ISC|ISC license
+GNU General Public License Version 2|GPL-2.0
+GNU Lesser General Public License Version 2.1|GNU Lesser General Public License, Version 2.1|LGPL-2.1|LGPL, version 2.1|GNU Lesser General Public License (LGPL)
+Elastic License 2.0|ELv2
+Server Side Public License|Server Side Public License, v 1|SSPLv1|SSPL
